@@ -61,6 +61,12 @@ The notebook processes a collection of monthly sales CSV files, consolidates the
   
   ![Description of Image](images/quantity_vs_price.png)        
  
+
+  
+ 
+  
+  
+  
   
   🔍 **Recommendation**: Balance inventory based on sales volume trends — maintain healthy stock levels for bestsellers, and consider price adjustments or promotions for slow-moving items.
 
