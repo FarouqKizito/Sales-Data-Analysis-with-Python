@@ -64,7 +64,5 @@ The notebook processes a collection of monthly sales CSV files, consolidates the
 
 ![Description of Image](images/quantity_vs_price.png)   
 
-  ## 👏 Acknowledgements
-
-A special thanks to [Keith Galli](https://github.com/KeithGalli) for dataset creation and inspiration.
+  
   
