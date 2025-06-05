@@ -60,6 +60,7 @@ The notebook processes a collection of monthly sales CSV files, consolidates the
   A product-level sales analysis revealed which products had the highest sales volume. Comparing this against product prices helped identify price sensitivity patterns. Typically, high-volume sales of lower-priced items drive revenue through volume, while premium items contribute through margin.  
 
   ![Description of Image](images/most_sold_products.png)                        ![Description of Image](images/quantity_vs_price.png)        
+ 
   🔍 **Recommendation**: Balance inventory based on sales volume trends — maintain healthy stock levels for bestsellers, and consider price adjustments or promotions for slow-moving items.
 
   ## 👏 Acknowledgements
